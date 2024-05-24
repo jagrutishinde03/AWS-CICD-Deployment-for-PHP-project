@@ -37,7 +37,9 @@ The deployment architecture includes:
 - **EC2 Instance**: Hosting PHP application
 - **AWS CodeDeploy**: Automated deployment to EC2
 
+## Architecture Diagram
 ![image](https://github.com/jagrutishinde03/AWS-CICD-Deployment-for-PHP-project/blob/main/Project%20Architecture.png)
+
 ## Setup Instructions
 
 ### 1. RDS Setup
