@@ -1,6 +1,6 @@
 # PHP eCommerce Website Deployment with CI/CD on AWS
 
-This repository contains the code for a PHP-based eCommerce website. The project is configured to be deployed using a CI/CD pipeline on AWS.
+This repository contains the code for a PHP-based eCommerce website. The project is configured to be deployed using a CICD pipeline on AWS.
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
@@ -45,8 +45,6 @@ The deployment architecture includes:
   - Engine options: MySQL
   - Templates: Free Tier
   - Database name: ecommerce
-  - Username: admin
-  - Password: Jagruti_2003
   - Public access: Yes
 
 **COPY RDS ENDPOINT URL**
@@ -84,8 +82,6 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
----
 
 **Author**: Jagruti Shinde
 
