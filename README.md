@@ -1,6 +1,6 @@
-# PHP eCommerce Website Deployment with CI/CD on AWS
+# PHP eCommerce Website Deployment with CICD on AWS
 
-This repository contains the code for a PHP-based eCommerce website. The project is configured to be deployed using a CICD pipeline on AWS.
+This repository contains the code for a PHP-based eCommerce website. The project is configured to be deployed using a CI/CD pipeline on AWS. This detailed description covers the steps to set up and deploy the application, including creating the database, configuring the CICD pipeline, setting up the EC2 instance, and deploying the application with CodeDeploy.
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
